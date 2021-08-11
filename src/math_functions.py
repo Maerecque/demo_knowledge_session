@@ -1,4 +1,4 @@
-def complex_math(x : int, y: int) -> int:
+def complex_math(x: int, y: int) -> int:
     """Very complex math calculation. This function will add two numbers and return the result of the calculation.
 
     Args:
@@ -8,7 +8,7 @@ def complex_math(x : int, y: int) -> int:
     Returns:
         int: the answer to the calculation.
     """
-    
+
     answer = x + y
-    
+
     return answer
