@@ -1,2 +1,2 @@
-# demo_knowledge_session_relevant_online
+# demo_knowledge_session
 Just made for the sake of a demo 
